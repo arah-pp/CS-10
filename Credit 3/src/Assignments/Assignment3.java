@@ -26,3 +26,13 @@ public class Assignment3
 		}
 
 }
+/* Screen Dump
+  B    I    N    G    O
+ 
+  1   16   31   46   61
+ 15   30   45   60   75
+ 11   18  FREE  50   69
+  7   22   42   57   67
+  3   26   37   55   73
+
+*/
