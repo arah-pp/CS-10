@@ -1,5 +1,15 @@
 package Assignments;
+/*
 
+Program: ${FromMeToYou}.java          Date: ${4/11/22}
+
+
+Author: Ashton Hirdle
+School: CHHS
+Course: Computer Science 10
+ 
+
+*/
 public class Assignment1 
 {
 
@@ -24,3 +34,21 @@ public class Assignment1
 	}
 
 }
+/* Screen Dump
+From: Mr.Wilson
+ 
+Address: Acer Computer, Lab 314
+ 
+Date: November 2, 2020
+ 
+ 
+ 
+To: Enter Your First Name and Last Name
+ 
+ 
+ 
+Message: Help! I'm trapped inside a computer!
+
+
+
+*/
