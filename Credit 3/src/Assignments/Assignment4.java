@@ -1,5 +1,15 @@
 package Assignments;
+/*
 
+Program: ${Assignment4}.java          Date: ${4/20/2022}
+
+
+Author: Please enter your first and last name here 
+School: CHHS
+Course: Computer Science 10
+ 
+
+*/
 import java.util.Scanner;
 
 import org.graalvm.compiler.nodes.TypeCheckHints.Hint;
@@ -22,3 +32,18 @@ public class Assignment4 {
 	}
 
 }
+/* 
+What is your name?
+Ashton
+Enter the diameter of the pizza:
+10
+Thank you Ashton, Your total is $6.75
+
+
+What is your name?
+Ashton
+Enter the diameter of the pizza:
+20
+Thank you Ashton, Your total is $21.75
+
+ */
