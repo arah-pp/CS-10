@@ -4,7 +4,7 @@ package Assignments;
 Program: ${Assignment4}.java          Date: ${4/20/2022}
 
 
-Author: Please enter your first and last name here 
+Author: Ashton Hirdle 
 School: CHHS
 Course: Computer Science 10
  
