@@ -12,8 +12,6 @@ Course: Computer Science 10
 */
 import java.util.Scanner;
 
-import org.graalvm.compiler.nodes.TypeCheckHints.Hint;
-
 public class Assignment4 {
 
 	public static void main(String[] args) 
