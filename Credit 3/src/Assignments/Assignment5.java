@@ -7,7 +7,7 @@ public class Assignment5
 
 	public static void main(String[] args) 
 	{
-         Scanner input = new Scanner(System.in);
+         Scanner input = new Scanner(System.in); //This will scan the users input
 	
          System.out.println("79 + 3 * (4 + 82 - 68) - 7 + 19 = 145\r\n"
         		 +"(179 + 21 + 10) / 7 + 181 = 211\r\n"
