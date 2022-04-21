@@ -12,20 +12,21 @@ Course: Computer Science 10
 */
 import java.util.Scanner;
 
-public class Assignment4 {
+public class Assignment4 
+{
 
 	public static void main(String[] args) 
 	{
-		Scanner input = new Scanner(System.in);
+		Scanner input = new Scanner(System.in); //Scanning the input
 		
-	 System.out.println("What is your name?");
-	 String name = input.next();
+	 System.out.println("What is your name?"); //Displaying the text "What is your name?"
+	 String name = input.next(); //Scanning the input of the user and storing under "name"
 	 
-     System.out.println("Enter the diameter of the pizza:");
-     int diameter = input.nextInt();
+     System.out.println("Enter the diameter of the pizza:"); //Displaying line of text "Enter the diameter of the pizza:"
+     int diameter = input.nextInt(); //Taking user input and storing it under "diameter"
       
-     double D = ((0.05*diameter*diameter)+1.75);
-     System.out.println("Thank you " + name + ", Your total is $" + D);
+     double D = ((0.05*diameter*diameter)+1.75); //Doing the math from the users input step by step
+     System.out.println("Thank you " + name + ", Your total is $" + D); //Displaying the final thank you message
 		
 	}
 
