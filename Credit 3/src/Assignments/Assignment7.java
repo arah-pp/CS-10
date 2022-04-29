@@ -1,10 +1,9 @@
 package Assignments;
 /*
+Program: ${Assignment7}.java          Date: ${4/21/2022}
 
-Program: ${Coins}.java          Date: ${4/27/22}
 
-
-Author: Ashton Hirdle
+Author: Ashton Hirdle 
 School: CHHS
 Course: Computer Science 10
  
