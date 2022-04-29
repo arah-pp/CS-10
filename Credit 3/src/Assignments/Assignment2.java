@@ -15,7 +15,7 @@ public class Assignment2
 
 	public static void main(String[] args)
 	{
-		System.out.println("     /\\       |     |\r\n" //Displaying this like of symbols and going next line
+		System.out.println("     /\\       |     |\r\n" //Displaying this line of symbols and going next line
 				          +"    /  \\      |     |\r\n" //Displaying next line of symbols
 				          +"   /----\\     |-----|\r\n" //Displaying next line of symbols
 				          +"  /      \\    |     |\r\n" //Displaying line of symbols
