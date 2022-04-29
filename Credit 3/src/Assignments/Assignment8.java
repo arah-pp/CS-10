@@ -18,7 +18,7 @@ public class Assignment8
 	public static void main(String[] args)
 	{
 		
-		Scanner input = new Scanner(System.in); //The scanner scans the users input
+		Scanner input = new Scanner(System.in); //The scanner  scans the users input
 		System.out.println("Enter a three digit number: "); //Telling the user to enter a 3 digit number
 		int DN = input.nextInt(); //Scanning the users input
 		int hundreds = DN / 100; //Dividing the number by 100
