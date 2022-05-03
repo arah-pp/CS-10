@@ -1,4 +1,4 @@
-package Assignments;
+package Credit4;
 /*
 Program: ${Assignment7}.java          Date: ${4/21/2022}
 
