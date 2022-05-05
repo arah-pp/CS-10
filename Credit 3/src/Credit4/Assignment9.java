@@ -17,7 +17,7 @@ public class Assignment9
 
 	public static void main(String[] args) 
 	{
-		Scanner input = new Scanner(System.in); //The scanner  scans the users input
+		Scanner input = new Scanner(System.in); //The scanner scans the users input
 		
 		System.out.println("Enter an integer:");
 		int fI = input.nextInt(); 
