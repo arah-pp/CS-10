@@ -1,5 +1,12 @@
 package Credit5;
+/*
 
+Program: ${Assignment11}.java          Date: ${5/9/2022}
+Author: Ashton Hirdle
+School: CHHS
+Course: Computer Science 10
+
+*/
 import java.util.Scanner;
 
 public class Assignment12 
