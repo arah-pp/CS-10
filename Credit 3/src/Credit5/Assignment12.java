@@ -1,4 +1,4 @@
-package Assignments;
+package Credit5;
 
 import java.util.Scanner;
 
@@ -60,5 +60,9 @@ Please enter your grade percentage:
 78
 The corresponding letter grade is: B+
 
+
+Please enter your grade percentage: 
+92
+The corresponding letter grade is: A+
   */
 
