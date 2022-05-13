@@ -15,31 +15,31 @@ public class Assignment15
 	public static void main(String[] args) 
 	{
 		
-		int frn = (int) (Math.random()*5); //
-		int srn = 1 + (int) (Math.random()*10); 
+		int frn = (int) (Math.random()*5); //This is the generator for the  First Random Numbers
+		int srn = 1 + (int) (Math.random()*10); //This is the Second Random Number generator
 		
-		Scanner userinput = new Scanner(System.in);
-		System.out.println("What is  " + frn + " * " + srn);
-		int input = userinput.nextInt();
-				if ( input == frn * srn)
+		Scanner userinput = new Scanner(System.in); //This is the scanner
+		System.out.println("What is  " + frn + " * " + srn); //Asking the user what is "frn" * "srn"
+		int input = userinput.nextInt(); //Scanning the users input
+				if ( input == frn * srn) // If the users input is correct 
 				{
-					System.out.println("You got it right! Congratulations!!" );
+					System.out.println("You got it right! Congratulations!!" ); //Displays on screen if correct
 				}
 				else 
 				{
-					Scanner userinput1 = new Scanner(System.in);
-					System.out.println("You got it wrong. Please Try again." );
-					int input1 = userinput.nextInt();
+					Scanner userinput1 = new Scanner(System.in); //This is the scanner
+					System.out.println("You got it wrong. Please Try again." ); //Displays if wrong
+					int input1 = userinput.nextInt(); //Lets you try again so need another scanner
 					
-					if (input1 == frn * srn)
+					if (input1 == frn * srn) //If you get it correct
 					{
-						System.out.println("You got it right! Congratulations!!" );
+						System.out.println("You got it right! Congratulations!!" ); //Displays if your correct
 
 					}
 					
 					else 
 					{
-						System.out.println("You got it wrong." );
+						System.out.println("You got it wrong." ); //If you got it wrong again displays on screen
 					}
 
 				}
