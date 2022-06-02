@@ -32,7 +32,7 @@ public class FinalProject
 		String name = userInput.next();
 		
 		System.out.print("Phone number:");
-		long number = userInput.nextLong();
+		String number = userInput.next();
 		System.out.println(" ");
 		
 		if (Size == 1)
